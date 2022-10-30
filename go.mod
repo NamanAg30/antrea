@@ -22,7 +22,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
 	github.com/google/btree v1.0.1
-	github.com/google/uuid v1.1.2
+	github.com/google/uuid v1.3.0
 	github.com/hashicorp/memberlist v0.2.4
 	github.com/k8snetworkplumbingwg/network-attachment-definition-client v1.1.0
 	github.com/k8snetworkplumbingwg/sriov-cni v2.1.0+incompatible
@@ -157,7 +157,6 @@ require (
 	golang.zx2c4.com/wireguard v0.0.0-20210427022245-097af6e1351b // indirect
 	gomodules.xyz/jsonpatch/v2 v2.2.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
